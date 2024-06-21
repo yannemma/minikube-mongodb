@@ -1,5 +1,5 @@
 # Appliquer les secrets et la configuration pour MongoDB
-# kubectl apply -f mongo-secret.yaml
+$ kubectl apply -f mongo-secret.yaml
 # kubectl apply -f mongo-config.yaml
 
 # Déployez ensuite l'application mongo puis appliquez son service
