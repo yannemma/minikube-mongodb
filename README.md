@@ -10,5 +10,5 @@ $ kubectl apply -f mongo-service.yaml
 $ kubectl apply -f web-deploy.yaml
 $ kubectl apply -f web-service.yaml
 
-Vous voyez les pods pour MongoDB et l'application Web en exécutant :
+# Vous voyez les pods pour MongoDB et l'application Web en exécutant :
 $ kubectl get pods
